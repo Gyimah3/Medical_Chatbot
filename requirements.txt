@@ -1,0 +1,7 @@
+chatterbot
+flask ==1.1.1
+gunicorn ==19.9.0
+jinja2 ==2.11.3
+itsdangerous==1.1.0
+PyYAML >=3.11,<=4.2b1
+nltk==3.5
