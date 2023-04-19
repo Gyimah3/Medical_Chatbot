@@ -7,4 +7,4 @@ Healthcare chatbots are the next frontier in virtual customer service as well as
 ![](https://github.com/Gyimah3/Medical_Chatbot/blob/main/images/med.png)
 
 ### screenshot 2
-![](https://github.com/Gyimah3/Medical_Chatbot/blob/main/images/med 2.png)
+![](https://github.com/Gyimah3/Medical_Chatbot/blob/main/images/med2.png)
